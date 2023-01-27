@@ -16,3 +16,5 @@ How do you measure in practice the distance between two points very far away fro
 ## Cycloid
 What is the curve described by a point located at the edge of a wheel that rotates at a constant speed on a straight line. This curve is called a cycloid. In this video, we show several examples of cycloids with points located at different height in the radius of the wheel. What does this figure look like if the wheel is no longer a circle but a regular polygon. Watch the video to discover.
 
+## Triangular Inequality
+It is said that the shortest distance between tow points in the plane is the striaght line between these points. Why is that? what does that tell us about any triangle? In a standard triangle, under which condition would the equility hold? this is what this vide is about.
